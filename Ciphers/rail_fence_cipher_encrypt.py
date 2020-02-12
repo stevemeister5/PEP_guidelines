@@ -1,4 +1,4 @@
-"""Encrypt a Civil War'rail fence'type cipher.
+r"""Encrypt a Civil War'rail fence'type cipher.
 
 This is for a "2-rail" fence cipher for short messages.
 
